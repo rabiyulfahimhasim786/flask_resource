@@ -4,24 +4,28 @@ import sqlite3
 app = Flask(__name__)
 app.secret_key="123"
 
-con=sqlite3.connect("database.db")
+con=sqlite3.connect("database.db")# creating a file
 con.execute("create table if not exists customer(pid integer primary key,name text,address text,contact integer,mail text)")
-con.close()
+# creating a table with name and required fields as a text area or integer(numeric) fields
+con.close()# closing database connection
 
 @app.route('/')
 def index():
     return render_template('index.html')
 
-@app.route('/login',methods=["GET","POST"])
+@app.route('/login',methods=["GET","POST"])# get and post menthods
 def login():
-    if request.method=='POST':
-        name=request.form['name']
-        password=request.form['password']
+    if request.method=='POST':# if conditions
+        name=request.form['name']# getting a data from index data (name), given by user  
+        password=request.form['password']# getting a data from index data (password), given by user  
         con=sqlite3.connect("database.db")
         con.row_factory=sqlite3.Row
-        cur=con.cursor()
+        cur=con.cursor() # cursor is used for execution 
+#What is cursor () in Python? A cursor is an object which helps to execute the query and fetch the records from the database
         cur.execute("select * from customer where name=? and mail=?",(name,password))
+#after creating a cursor() objects we can use the cursor object to call the execute() method to execute any SQL queries.
         data=cur.fetchone()
+#The fetchone returns the next row of a query result set, returning a single tuple, or None when no more data is available
 
         if data:
             session["name"]=data["name"]
