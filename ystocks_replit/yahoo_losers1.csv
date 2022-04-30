@@ -1,0 +1,101 @@
+,Symbol,Name,Price,Change,Change %,Volume,Avg volume,Market cap,Ration
+0,SMBMF,Sembcorp Marine Ltd,0.0800,-0.0200,-20.00%,"34,009","8,937",2.511B,N/A
+1,CBGPF,Close Brothers Group plc,13.94,-3.39,-19.57%,"104,300",0,2.098B,8.31
+2,VRSN,"VeriSign, Inc.",178.69,-29.73,-14.26%,2.316M,"610,058",19.61B,25.53
+3,AMZN,"Amazon.com, Inc.","2,485.63",-406.30,-14.05%,13.48M,3.684M,1.264T,38.35
+4,TEAM,Atlassian Corporation Plc,224.83,-35.15,-13.52%,4.377M,1.821M,53.414B,N/A
+5,NTOIY,Neste Oyj,21.32,-3.12,-12.77%,"53,971","77,795",32.751B,17.56
+6,WU,The Western Union Company,16.76,-2.41,-12.57%,13.214M,5.122M,6.515B,8.51
+7,EGFEF,Eurobank Ergasias Services and Holdings S.A.,1.0500,-0.1500,-12.50%,"191,660","6,835",3.894B,11.29
+8,TASK,"TaskUs, Inc.",28.89,-3.84,-11.73%,"774,809","610,248",2.824B,N/A
+9,MSTR,MicroStrategy Incorporated,354.17,-46.32,-11.57%,"546,217","436,411",4.001B,N/A
+10,FTAI,Fortress Transportation and Infrastructure Investors LLC,21.49,-2.76,-11.38%,3.896M,"650,714",2.132B,N/A
+11,DOCN,"DigitalOcean Holdings, Inc.",39.43,-4.57,-10.39%,2.179M,2.048M,4.181B,N/A
+12,CVNA,Carvana Co.,57.96,-6.41,-9.96%,10.759M,5.274M,10.294B,N/A
+13,CHWY,"Chewy, Inc.",29.06,-3.20,-9.92%,6.443M,4.883M,12.219B,N/A
+14,CINF,Cincinnati Financial Corporation,122.66,-13.34,-9.81%,2.45M,"706,533",19.679B,6.78
+15,FATE,"Fate Therapeutics, Inc.",28.56,-3.09,-9.76%,1.251M,1.233M,2.758B,N/A
+16,MNDY,monday.com Ltd.,129.40,-13.98,-9.75%,"376,384","720,069",5.657B,N/A
+17,GDRX,"GoodRx Holdings, Inc.",13.55,-1.46,-9.73%,2.51M,2.696M,5.37B,N/A
+18,NET,"Cloudflare, Inc.",86.14,-9.11,-9.56%,3.711M,5.388M,28.085B,N/A
+19,TOST,"Toast, Inc.",18.63,-1.96,-9.52%,6.351M,4.846M,9.523B,N/A
+20,NATI,National Instruments Corporation,36.14,-3.76,-9.42%,2.8M,"533,008",4.772B,53.94
+21,OKTA,"Okta, Inc.",119.31,-12.39,-9.41%,2.553M,2.535M,18.695B,N/A
+22,NMRK,"Newmark Group, Inc.",12.15,-1.26,-9.40%,1.507M,1.47M,2.298B,3.20
+23,CAE,CAE Inc.,23.78,-2.46,-9.38%,2.006M,"314,043",7.551B,86.79
+24,AON,Aon plc,287.99,-29.45,-9.28%,1.926M,1.224M,61.614B,51.89
+25,CFLT,"Confluent, Inc.",31.24,-3.09,-9.00%,2.278M,3.082M,8.688B,N/A
+26,HPK,"HighPeak Energy, Inc.",27.31,-2.68,-8.92%,"667,967","387,604",2.958B,50.76
+27,FR,"First Industrial Realty Trust, Inc.",58.00,-5.65,-8.88%,2.012M,"747,611",7.656B,27.79
+28,EGP,"EastGroup Properties, Inc.",187.50,-18.26,-8.87%,"550,600","248,330",7.815B,48.08
+29,SIMO,Silicon Motion Technology Corporation,75.93,-7.32,-8.79%,2.02M,"600,753",2.615B,13.27
+30,BHVN,Biohaven Pharmaceutical Holding Company Ltd.,89.17,-8.57,-8.77%,2.927M,"571,862",6.333B,N/A
+31,BRPHF,Galaxy Digital Holdings Ltd.,10.94,-1.04,-8.70%,"234,369","249,038",3.61B,3.13
+32,PRVA,"Privia Health Group, Inc.",21.99,-2.09,-8.68%,"807,458","721,653",2.379B,N/A
+33,DRE,Duke Realty Corporation,54.75,-5.20,-8.67%,3.363M,1.806M,21.162B,24.38
+34,EXR,Extra Space Storage Inc.,190.00,-18.04,-8.67%,1.32M,"678,709",26.748B,30.67
+35,CUBE,CubeSmart,47.51,-4.49,-8.63%,4.013M,1.422M,11.029B,43.59
+36,LBRT,Liberty Energy Inc.,16.14,-1.52,-8.61%,12.299M,1.993M,3.016B,N/A
+37,HCXLY,Hiscox Ltd,21.40,-2.00,-8.55%,"39,382",957,3.707B,19.56
+38,ETSY,"Etsy, Inc.",93.19,-8.69,-8.53%,6.952M,4.025M,11.852B,27.42
+39,HTZ,"Hertz Global Holdings, Inc.",20.06,-1.86,-8.49%,6.46M,5.605M,8.367B,N/A
+40,AX,"Axos Financial, Inc.",37.88,-3.48,-8.41%,"637,524","374,948",2.254B,10.07
+41,FTI,TechnipFMC plc,6.92,-0.63,-8.34%,14.112M,10.917M,3.129B,266.15
+42,LFST,"LifeStance Health Group, Inc.",6.77,-0.61,-8.27%,"604,110","849,164",2.534B,N/A
+43,GLBE,Global-e Online Ltd.,22.54,-2.02,-8.22%,1.153M,1.402M,3.508B,N/A
+44,DNKEY,Danske Bank A/S,7.60,-0.68,-8.21%,"51,844","41,246",12.964B,7.34
+45,COIN,"Coinbase Global, Inc.",112.71,-9.98,-8.13%,5.741M,4.479M,29.519B,7.77
+46,ACVA,ACV Auctions Inc.,13.35,-1.18,-8.12%,1.386M,1.317M,2.097B,N/A
+47,AFRM,"Affirm Holdings, Inc.",28.70,-2.51,-8.04%,7.251M,14.226M,8.164B,N/A
+48,NSA,National Storage Affiliates Trust,56.60,-4.94,-8.03%,1.424M,"602,348",7.374B,57.52
+49,TRUP,"Trupanion, Inc.",63.62,-5.37,-7.78%,1.446M,"434,179",2.59B,N/A
+50,EXPO,"Exponent, Inc.",95.81,-8.07,-7.77%,"315,670","294,775",4.965B,50.43
+51,W,Wayfair Inc.,76.94,-6.45,-7.73%,4.398M,2.457M,8.071B,N/A
+52,STAG,"STAG Industrial, Inc.",37.32,-3.11,-7.69%,2.347M,1.017M,6.702B,32.45
+53,SNOW,Snowflake Inc.,171.44,-14.27,-7.68%,6.542M,5.94M,53.935B,N/A
+54,TEO,Telecom Argentina S.A.,5.47,-0.45,-7.60%,"199,673","139,408",2.356B,31.26
+55,BTU,Peabody Energy Corporation,22.64,-1.86,-7.59%,11.639M,11.256M,3.13B,7.04
+56,BTEGF,Baytex Energy Corp.,5.13,-0.42,-7.57%,"960,851","673,024",2.92B,2.33
+57,WFRD,Weatherford International plc,32.28,-2.61,-7.48%,"857,022","528,483",2.276B,N/A
+58,EVCM,EverCommerce Inc.,12.38,-1.00,-7.47%,"126,114","290,645",2.42B,N/A
+59,GDDY,GoDaddy Inc.,80.81,-6.52,-7.47%,2.754M,1.746M,13.121B,56.95
+60,BYND,"Beyond Meat, Inc.",36.88,-2.94,-7.38%,1.783M,3.266M,2.343B,N/A
+61,PLD,"Prologis, Inc.",160.29,-12.72,-7.35%,9.996M,2.902M,118.657B,40.65
+62,ASND,Ascendis Pharma A/S,91.27,-7.23,-7.34%,"693,883","438,537",5.197B,N/A
+63,CRCT,"Cricut, Inc.",11.62,-0.92,-7.34%,"212,712","337,259",2.579B,18.16
+64,RYAN,"Ryan Specialty Group Holdings, Inc.",36.99,-2.88,-7.22%,"653,983","474,401",4.079B,N/A
+65,ASX,"ASE Technology Holding Co., Ltd.",6.44,-0.50,-7.20%,7.573M,6.304M,13.785B,6.57
+66,CHTR,"Charter Communications, Inc.",428.49,-33.00,-7.15%,4.82M,1.619M,82.053B,17.51
+67,PWSC,"PowerSchool Holdings, Inc.",15.14,-1.16,-7.12%,"331,029","442,909",3.004B,N/A
+68,CLF,Cleveland-Cliffs Inc.,25.49,-1.95,-7.11%,22.7M,22.908M,13.376B,4.76
+69,IHS,IHS Holding Limited,10.50,-0.80,-7.08%,"85,577","134,069",3.442B,N/A
+70,SI,Silvergate Capital Corporation,116.96,-8.90,-7.07%,"541,894","823,259",3.699B,40.19
+71,IONS,"Ionis Pharmaceuticals, Inc.",36.76,-2.79,-7.05%,1.716M,1.11M,5.211B,N/A
+72,DNA,"Ginkgo Bioworks Holdings, Inc.",2.9000,-0.2200,-7.05%,17.45M,17.852M,5.147B,N/A
+73,RVLV,"Revolve Group, Inc.",42.26,-3.18,-7.00%,1.172M,1.111M,3.096B,31.54
+74,INTC,Intel Corporation,43.59,-3.25,-6.94%,67.95M,35.866M,178.226B,8.97
+75,TMUS,"T-Mobile US, Inc.",123.14,-9.15,-6.92%,7.166M,5.296M,153.838B,51.10
+76,COLM,Columbia Sportswear Company,82.16,-6.10,-6.91%,1.186M,"421,100",5.172B,15.41
+77,PSA,Public Storage,371.50,-27.47,-6.89%,1.374M,"713,762",65.145B,37.64
+78,CABO,"Cable One, Inc.","1,166.20",-86.19,-6.88%,"84,860","36,312",7.011B,25.08
+79,WOOF,"Petco Health and Wellness Company, Inc.",19.26,-1.42,-6.87%,1.861M,1.7M,5.836B,31.06
+80,ASAN,"Asana, Inc.",26.80,-1.97,-6.85%,2.691M,5.13M,5.069B,N/A
+81,DASH,"DoorDash, Inc.",81.43,-5.96,-6.82%,2.953M,5.801M,28.371B,N/A
+82,EBKDY,Erste Group Bank AG,15.36,-1.12,-6.81%,"84,479","100,467",12.459B,6.99
+83,ALNY,"Alnylam Pharmaceuticals, Inc.",133.43,-9.73,-6.80%,1.416M,"828,780",16.107B,N/A
+84,LSI,"Life Storage, Inc.",132.49,-9.57,-6.74%,"857,465","491,625",11.201B,41.79
+85,ATUS,"Altice USA, Inc.",9.28,-0.67,-6.73%,9.159M,4.703M,4.219B,4.34
+86,ARES,Ares Management Corporation,66.22,-4.78,-6.73%,"950,417","872,083",19.419B,30.84
+87,IOT,Samsara Inc.,12.34,-0.89,-6.73%,1.393M,1.476M,6.278B,N/A
+88,CELH,"Celsius Holdings, Inc.",52.00,-3.74,-6.71%,"642,799","873,190",3.872B,"1,040.00"
+89,TKC,Turkcell Iletisim Hizmetleri A.S.,3.4900,-0.2500,-6.68%,"568,527","476,829",3.092B,4.68
+90,GTLB,GitLab Inc.,47.93,-3.41,-6.64%,"645,244",1.519M,7.074B,N/A
+91,VOD,Vodafone Group Public Limited Company,15.19,-1.08,-6.64%,10.364M,6.05M,43.565B,N/A
+92,WIX,Wix.com Ltd.,75.46,-5.36,-6.63%,"881,933",1.215M,4.336B,N/A
+93,DISH,DISH Network Corporation,28.51,-2.01,-6.59%,3.6M,2.48M,15.082B,7.52
+94,BILL,"Bill.com Holdings, Inc.",170.71,-11.99,-6.56%,1.871M,2.099M,17.683B,N/A
+95,FISV,"Fiserv, Inc.",97.92,-6.82,-6.51%,4.687M,3.625M,63.527B,49.21
+96,HCP,"HashiCorp, Inc.",47.08,-3.27,-6.49%,"844,684",1.105M,8.638B,N/A
+97,MELI,"MercadoLibre, Inc.",973.63,-66.37,-6.38%,"526,898","605,783",49.05B,583.01
+98,RAMP,"LiveRamp Holdings, Inc.",31.32,-2.13,-6.37%,"504,401","464,369",2.135B,N/A
+99,FTNT,"Fortinet, Inc.",289.01,-19.64,-6.36%,1.144M,1.285M,46.477B,79.62
